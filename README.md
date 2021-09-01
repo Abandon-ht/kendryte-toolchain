@@ -1,1 +1,1 @@
-# kendryte-toolchain
+# kendryte-toolchain-Linux
